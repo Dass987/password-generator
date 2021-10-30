@@ -1,7 +1,19 @@
 ## Generador de contraseñas
 
-Utilizar
+<br />
+
+#### Ejecutar
+
 `$ genpass`
 
-Longitud de la contraseña
+<br />
+
+#### Cambiar la longitud de la contraseña
+
 `$ genpass --length=10`
+
+<br />
+
+#### Consultar comandos disponibles
+
+`$ genpass -h`
